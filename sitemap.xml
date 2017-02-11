@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://thesingularity.in/blog/2015/10/10/migrate-from-jekyll/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thesingularity.in/blog/2015/10/02/linked-post/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thesingularity.in/blog/2015/09/17/go-is-for-lovers/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thesingularity.in/blog/2015/08/03/hugo-is-for-lovers/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thesingularity.in/blog/2015/06/24/creating-a-new-theme/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thesingularity.in/blog/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thesingularity.in/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thesingularity.in/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thesingularity.in/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thesingularity.in/tags/go/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thesingularity.in/tags/golang/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thesingularity.in/tags/hugo/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thesingularity.in/tags/ipsum/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thesingularity.in/categories/lorem/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thesingularity.in/tags/programming/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thesingularity.in/categories/programming/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thesingularity.in/categories/pseudo/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thesingularity.in/categories/starting/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thesingularity.in/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thesingularity.in/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thesingularity.in/tags/theme/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
