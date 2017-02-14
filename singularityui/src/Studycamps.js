@@ -1,10 +1,19 @@
 import React, { Component } from 'react';
 
+import {Grid, Col, Row} from 'react-bootstrap';
+
 export class Studycamps extends Component {
   render() {
     return(
+      <Grid>
       <div className="Studycamps">
+      <Row>
+      <Col xs={2} md={2} lg={2} xsOffset={1}>
       <div className="sectionTitle">Studycamps</div>
+      </Col>
+      </Row>
+      <Row>
+      <Col xs={8} md={8} lg={8} xsOffset={1}>
         <div className="sectionContent">
 <p>Jaaga Study will coordinate ‘Study Camps’ in The Singularity. Each one oriented around a specific tech stack and its 
 associated community. Study camps aim to provide an ongoing physical place for people involved in a particular tech 
@@ -57,7 +66,10 @@ We’re are open to other tech communities who feel they would fit in at The Sin
 We are also open to individuals with a clear idea of what they’d like to learn to come camp with us enjoy and be part of The Singularity.
 </p>
         </div>
+        </Col>
+        </Row>
       </div>
+      </Grid>
   );}
 }
 

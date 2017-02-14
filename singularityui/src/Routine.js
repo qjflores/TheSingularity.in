@@ -1,10 +1,19 @@
 import React, { Component } from 'react';
 
+import {Grid, Col, Row} from 'react-bootstrap';
+
 export class Routine extends Component {
   render() {
     return(
+      <Grid>
       <div className="Routine">
+      <Row>
+      <Col xs={2} md={2} lg={2} xsOffset={1}>
       <div className="sectionTitle"> Routine </div>
+      </Col>
+      </Row>
+      <Row>
+      <Col xs={8} md={8} lg={8} xsOffset={1}>
       <div className="sectionContent"> 
       <p>Life is what you make it, and people in the Singularity define their own schedule. There is a cafe is an open  social place where people can work, and eat, and chat with each other with music going on.</p>
 
@@ -43,7 +52,10 @@ export class Routine extends Component {
 
 
       </div>
+      </Col>
+      </Row>
       </div>
+      </Grid>
   );}
 }
 

@@ -1,11 +1,19 @@
 import React, { Component } from 'react';
 
+import {Grid, Col, Row} from 'react-bootstrap';
+
 export class Facilities extends Component {
   render() {
     return(
+      <Grid>
       <div className="Facilities">
-      
+      <Row>
+      <Col xs={2} md={2} lg={2} xsOffset={1}>
       <div className="sectionTitle"> Facilities</div>
+      </Col>
+      </Row>
+      <Row>
+      <Col xs={8} md={8} lg={8} xsOffset={1}>
         <div className="sectionContent">
           <p>The Singularity operates on a principle of 'Radical Self Reliance' which is to say that ultimately individuals are 
           repsonsible for their own happiness and setting up whatever infrastructure they need for this. </p>
@@ -27,7 +35,10 @@ export class Facilities extends Component {
           <p>Camping space is available to everyone. People need to provide their own tents and create their own shade and 
           hang out places.</p> 
         </div>
+        </Col>
+        </Row>
       </div>
+      </Grid>
   );}
 }
 
